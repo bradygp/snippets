@@ -1,2 +1,2 @@
 
- * [DevOps](/devops.html)
+ * [DevOps](/snippets/devops.html)
