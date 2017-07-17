@@ -1,0 +1,1 @@
+ * If your goal with implementing DevOps was to speed up delivery and become more agile, you have to aggressively remove roadblocks. Anything that stands in the way of the team collaborating with the business, developers, and each other needs to be bulldozed. Fear, politics, mistrust— gone. -- [Automation is not DevOps](https://dev.to/liquid_chickens/automation-is-not-devops)
