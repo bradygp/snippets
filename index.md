@@ -1,1 +1,2 @@
-# Snippets
+
+ * [DevOps](/devops.html)
